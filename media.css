@@ -218,7 +218,7 @@ footer ul li h6 {
 
 @media screen and (max-width: 411px){
     .offers {
-    margin-top: 70px;
+    margin-top: 60px;
 }
 .destination .img_bx .msg:nth-child(2) {
     left: 50%;
@@ -243,7 +243,7 @@ header .trip_bx .search_bx input[type="button"] {
     padding: 6px 14px;
 }
     .offers {
-    margin-top: 14px;
+    margin-top: -20px;
 }
 .destination .img_bx .msg:nth-child(2) {
     left: 45%;
